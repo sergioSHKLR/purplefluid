@@ -1,17 +1,17 @@
 {
-  "name": "fluidlab",
+  "name": "purplefluid",
   "private": true,
   "version": "0.0.0",
-  "description": "A virtual hydraulics bench in the browser: build a pipe, gas, steam or open-channel rig and watch it solve.",
+  "description": "Educational hydraulic circuit trainer (fork of FluidLab). Browser-based HPU, valve, and cylinder circuits with faults and progress tracking.",
   "license": "MIT",
-  "author": "Andre Paquette",
-  "homepage": "https://fluidlab.fly.dev",
+  "author": "Andre Paquette (original), Sergio SHKLR (fork)",
+  "homepage": "https://sergioSHKLR.github.io/PurpleFluid/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thepacket/fluidlab.git"
+    "url": "git+https://github.com/sergioSHKLR/PurpleFluid.git"
   },
   "bugs": {
-    "url": "https://github.com/thepacket/fluidlab/issues"
+    "url": "https://github.com/sergioSHKLR/PurpleFluid/issues"
   },
   "type": "module",
   "scripts": {
